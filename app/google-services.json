@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545215164429",
+    "project_id": "despachodistribuidora-adc88",
+    "storage_bucket": "despachodistribuidora-adc88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545215164429:android:a86baa262c4de6bc45e544",
+        "android_client_info": {
+          "package_name": "com.example.despachodistribuidora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjv0QL5tbqEEi4WsoTm3FY4O2enDBNjYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
